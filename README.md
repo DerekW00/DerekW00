@@ -3,7 +3,6 @@ My name is Derui (Derek) Wang.
 
 I graduated from UC Berkeley in 2023, where I triple majored in Computer Science, Data Science, and Economics. 
 
-I will be attending the Computer Science M.S. program at New York University in Fall 2025
 
 ---
 ### About me
