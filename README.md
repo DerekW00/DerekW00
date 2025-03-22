@@ -8,7 +8,7 @@ I graduated from UC Berkeley in 2023, where I triple majored in Computer Science
 ### About me
 - :construction_worker: Working on a project combining AI and Psychdelic-Assisted Psychotherapy
 - :man_technologist: Learning VR/AR development, Game Design, HCI, and Security
-- :page_with_curl: Studying for CREST CPSA certificate
+- :page_with_curl: Studying for HTB CPTS and AWS CCP certificates
 - 📫 derekderuiwang@gmail.com
 
 ---
